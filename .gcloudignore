@@ -1,0 +1,10 @@
+# Files NOT uploaded to Google Cloud when running "gcloud run deploy --source ."
+.gcloudignore
+.git/
+.gitignore
+*.docx
+*.png
+*.pdf
+__pycache__/
+.venv/
+PROJECT_GUIDE.md

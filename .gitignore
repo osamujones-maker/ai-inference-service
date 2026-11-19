@@ -1,0 +1,10 @@
+# Keep class documents, screenshots and notes out of the GitHub repository
+*.docx
+*.png
+*.pdf
+PROJECT_GUIDE.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
